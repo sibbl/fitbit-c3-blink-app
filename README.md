@@ -8,7 +8,7 @@ This app lets your Fitbit Ionic or Versa blink just like any wearable at the Cha
 
 ## How to use
 
-Just install and open the app (still waiting for approval, so Fitbit Gallery link will follow).
+Just install the app from the Fitbit Gallery and launch it: https://gallery.fitbit.com/details/759f2e9a-c2e3-4f77-bd6b-924dc1f20b84
 
 ## Features
 
