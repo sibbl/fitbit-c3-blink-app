@@ -16,3 +16,4 @@ Just install and open the app (still waiting for approval, so Fitbit Gallery lin
 * Colors cycle automatically through all 8 combinations of red, green and blue being on or off.
 * The upper pyhsical button lets you change the interval (some love it faster, some slower).
 * The lower physical button lets you change the screen brightness (better visibility vs battery life).
+* Tap the screen to rotate it by 180 degrees (so that other people know where they are and which time it is).
