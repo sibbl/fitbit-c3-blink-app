@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "759f2e9a-c2e3-4f77-bd6b-924dc1f20b84",
+    "appType": "app",
+    "appDisplayName": "36c3",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "36c3"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

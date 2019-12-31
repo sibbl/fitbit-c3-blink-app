@@ -1,0 +1,11 @@
+<svg>
+  <g id="rotateContainer" transform="translate(50%, 50%)" pointer-events="visible">
+    <g transform="translate(-50%, -50%)">
+      <rect id="background" />
+      <text id="clock" />
+      <text id="popup" />
+      <image id="logoLight" href="36c3-logo-light.png" />
+      <image id="logoDark" href="36c3-logo-dark.png" />
+    </g>
+  </g>
+</svg>
